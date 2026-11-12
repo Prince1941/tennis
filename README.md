@@ -41,6 +41,7 @@ This repository contains the research and implementation notebook (`improved-ten
 5. **Phase 6 — Unseen Video Inference & Annotated Dashboard Rendering**
    - End-to-end rally analysis on unseen court-level videos (e.g., *Andy Murray*, *Dominic Thiem*).
    - Renders side-by-side biomechanical telemetry dashboards (knee angle, elbow angle, X-Factor, shot direction, technique quality, and rule-based shot selection recommendation) as well as full annotated `.mp4` video overlays with real-time skeletal tracking.
+   - Supports frame-by-frame visualization of detected poses and predicted tennis stroke categories.
 
 ---
 
